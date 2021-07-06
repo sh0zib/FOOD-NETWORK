@@ -126,6 +126,20 @@ table{
     border-radius: 15px;
 }
 
+#subscribe{
+    text-align: center;
+    margin-top: 6%;
+}
+
+.input{
+    width: 200px;
+    height: 40px;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 2%;
+    opacity: 0.5;
+
+}
 footer{
     text-align: center;
     background-color: black;
