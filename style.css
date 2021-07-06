@@ -1,0 +1,137 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 60px;
+    font-weight: 900;
+}
+
+.link{
+    text-decoration: none;
+    background-image: linear-gradient( orange , tomato);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 50px;
+    color: white;
+}
+
+.sec1{
+    display: flex;
+    padding-left: 90px;
+
+    
+}
+
+.sec1 img{
+    width: 85%;
+}
+ span{
+     color: orange;
+ }
+ #shokhina{
+     font-size: 25px;
+     font-weight: 400;
+ }
+.font{
+    opacity: 0.5;
+}
+
+#about-us{
+    text-align: center;
+    padding-top: 90px;
+    padding-right: 120px;
+    width: 90%;
+}
+
+.about-us-section{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-top: 15%;
+    
+}
+.about-us-section img{
+    width: 60%;
+}
+.sec3{
+    margin-left: 15%;
+    padding-top: 6%;
+    padding-bottom: 3%;
+    text-align: center;
+    width: 70%;
+}
+
+.sec4{
+    display: flex;
+}
+
+
+.sec4 img{
+width: 100%;
+padding-top: 10px;
+
+}
+
+.shadow1{
+    box-shadow: 10px 10px 70px gray;
+    border-radius: 20px;
+    width: 22%;
+    margin-left: 9%;
+    margin-right: 4%;
+    padding-left: 10px;
+    padding-right:10px;
+}
+
+.shadow2{
+    box-shadow: 10px 10px 70px gray;
+    border-radius: 20px;
+    width: 23%;
+    margin-left: 2%;
+    margin-right: 7%;
+    padding-left: 10px;
+    padding-right:10px;
+}
+
+.shadow3{
+    box-shadow: 10px 10px 70px gray;
+    border-radius: 20px;
+    width: 23%;
+    margin-right: 7%;
+    padding-left: 10px;
+    padding-right:10px;
+}
+
+.sec5{
+    display: flex;
+    box-shadow: 10px 10px 70px gray;
+    border-radius: 20px;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 7%;
+    padding-left: 10px;
+    padding-right:10px;
+}
+
+table{
+    width: 70%;
+    text-align: center;
+    margin-left: 220px;
+    box-shadow: 10px 10px 500px gray;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 15px;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 65px;
+    margin-top: 10%;
+}
+
